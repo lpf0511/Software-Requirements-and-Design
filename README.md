@@ -1,3 +1,4 @@
+![image](https://github.com/lpf0511/Software-Requirements-and-Design/assets/149307630/76ce6edb-5a16-4cda-a0b7-75727341a9f8)
 用例图
 用户：
 用户注册和登录
